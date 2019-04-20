@@ -1,0 +1,9 @@
+﻿Build started 2017/12/24 19:30:01.
+     1>Project "H:\Baruch c++\bondxue Level 9 HW submission\Part F\Exercise F\Level9\Level9Code\Level9Code\Projects\FDM\FDM\FDM.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v120 (Platform Toolset = 'v120') cannot be found. To build using the v120 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v120 to build using the v120 build tools.
+     1>Done Building Project "H:\Baruch c++\bondxue Level 9 HW submission\Part F\Exercise F\Level9\Level9Code\Level9Code\Projects\FDM\FDM\FDM.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.00
